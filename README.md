@@ -1,2 +1,2 @@
 # Angularjs
-Sample Codes 
+Sample Codes in AngularJS
